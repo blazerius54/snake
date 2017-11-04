@@ -1,4 +1,3 @@
-https://blazerius54.github.io/canvas-background/
 
 # snake
 Snake Game
